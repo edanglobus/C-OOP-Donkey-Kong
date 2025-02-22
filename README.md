@@ -1,5 +1,5 @@
 # C-OOP-Donkey-Kong
-project of Donkey Kong Game in c++ using oop.
+project of Donkey Kong Game in c++ using iheratation, polymorphism and all basics of oop.
 
 
 Donkey Kong Game README
